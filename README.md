@@ -35,7 +35,7 @@ The URL for EAP Console is `http://127.0.0.1:9990/console`.
 > See https://access.redhat.com/solutions/6953431
 
 ## Update standalone.bat
-To use JDK 11.0.10 for Red Hat SSO you have to download the JDK and update `standalone.bat`. Set the environment variable `JAVA_HOME` to JDK install map.
+To use JDK 11.0.10 for Red Hat SSO you have to download [JDK 11.0.10](https://www.oracle.com/nl/java/technologies/javase/jdk11-archive-downloads.html) and update `standalone.bat`. Set the environment variable `JAVA_HOME` to JDK install map.
 
 ```shell
 @echo off
