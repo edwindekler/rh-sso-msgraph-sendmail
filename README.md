@@ -1,4 +1,4 @@
-# Sending e-mail with Microsoft Graph API
+# Sending Keycloak email with Microsoft Graph API
 
 # Introduction
 Microsoft is disabling SMTP Basic authentication as of 31-12-2022, see [Deprecation of Basic authentication in Exchange Online](https://learn.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online).
@@ -93,8 +93,7 @@ to see if these properties have been replaced in good order.
 - [Microsoft - Graph API - user: sendMail](https://learn.microsoft.com/en-us/graph/api/user-sendmail?view=graph-rest-1.0&tabs=http)
 - [OWASP - Injection Prevention Cheat Sheet in Java](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_in_Java_Cheat_Sheet.html)
 - [OWASP - Java HTML Sanitizer](https://github.com/owasp/java-html-sanitizer)
-- [Keycloak - Documentation Archive - 4.8.3](https://www.keycloak.org/archive/documentation-4.8.html)
-- [Keycloak - Java Docs Distribution - 4.8.3.Final](https://www.keycloak.org/docs-api/4.8/javadocs/index.html)
+- [Keycloak - Java Docs Distribution - 4.8.3.Final](https://www.javadoc.io/doc/org.keycloak/keycloak-services/4.8.3.Final/index.html)
 - [Keycloak - Github Sourcecode](https://github.com/keycloak/keycloak)
 - [Keycloak - Extension Playground](https://github.com/thomasdarimont/keycloak-extension-playground)
 
